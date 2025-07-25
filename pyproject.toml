@@ -1,0 +1,16 @@
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["rumor_supervisor*"]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[project]
+name = "rumor_supervisor"
+version = "0.1.0"
+dependencies = [
+  "agentsociety",
+]
+
+[tool.uv.sources]
+agentsociety = { path = "../agentsociety" }
