@@ -1,5 +1,10 @@
 # AgentSociety project : Society Simulation with Multi-agent System
 
+---
+## SZU - DAU International Hackathon 전체 1위 🏆
+
+---
+
 ## Introduction
 
 **AgentSociety** is a multi-agent simulation project where AI-driven agents role-play as citizens of Beijing City. Based on a realistic map and life simulation logic, these agents autonomously engage in everyday activities like working, resting, and planning their routines.
