@@ -27,3 +27,8 @@ This project focuses on designing a **regulatory agent** to mitigate rumor sprea
 4. **Account Ban**: Permanently block an agent from posting publicly.
 
 This regulatory mechanism is integrated within a larger multi-head reasoning and action framework supported by LLMs, memory blocks, and a detailed simulation environment.
+
+
+---
+
+#### Reference : https://github.com/tsinghua-fib-lab/AgentSociety
