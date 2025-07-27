@@ -20,6 +20,7 @@ This project focuses on designing a **regulatory agent** to mitigate rumor sprea
 * Detect and regulate **public posts** only (no access to private chats).
 
 ### Supervisor Architecture
+![감시자 아키텍쳐](https://github.com/hoonZeee/BDSC_Track2_Code_Package/blob/main/images/LLM_architecture.png)
 
 ### Intervention Methods
 
