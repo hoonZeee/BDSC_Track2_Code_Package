@@ -19,6 +19,8 @@ This project focuses on designing a **regulatory agent** to mitigate rumor sprea
 
 * Detect and regulate **public posts** only (no access to private chats).
 
+### Supervisor Architecture
+
 ### Intervention Methods
 
 1. **Post Removal**: Delete a specific post, making it permanently invisible.
