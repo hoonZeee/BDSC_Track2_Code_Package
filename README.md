@@ -2,6 +2,7 @@
 
 
 ## SZU - DAU International Hackathon 전체 1위 🏆
+![전체1등상](https://github.com/hoonZeee/BDSC_Track2_Code_Package/blob/main/images/first_prize.jpg)
 
 
 
