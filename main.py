@@ -23,9 +23,9 @@ async def main():
     llm_configs = [
         LLMConfig(
             provider=LLMProviderType.VLLM,
-            base_url="http://wenjiemeta.top:16528/v1", #local port
+            base_url="api port", #local port
             api_key="1234",
-            model="qwen2.5-14b-instruct",
+            model="api model",
             concurrency=200,
             timeout=60,
         ),
